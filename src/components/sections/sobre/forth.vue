@@ -1,7 +1,9 @@
 <template>
-    <div class="w-full flex flex-col relative py-20">
+    <div class="w-full flex flex-col overflow-hidden relative py-20">
         <img class="w-[216px] absolute -left-[108px] top-20" alt="circle"
-            src="../../../assets/images/circle.png" />
+            src="../../../assets/images/circle-bold.png" />
+        <img class="w-[420px] absolute -right-[210px] -bottom-[210px] -z-10" alt="circle"
+            src="../../../assets/images/circle-fill.png" />
 
         <div class="container flex items-center">
             <div class="w-[25%] flex items-center justify-center">

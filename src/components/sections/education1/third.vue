@@ -40,7 +40,7 @@
                     <div class="w-1/2 flex flex-col p-8">
                         <h3 class="text-text font-extrabold text-[64px]">4.</h3>
                         <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="book" src="../../../assets/images/b-bookmark.png" />
+                            <img class="w-[34px] mr-2" alt="book" src="../../../assets/images/blue-trank.png" />
                             <h5 class="text-sm font-semibold uppercase">ADMINISTRA TU PROPIO NEGOCIO</h5>
                         </div>
                         <p class="font-light text-[#69696B]">Formación de primer nivel para que emprendas tu propio
@@ -58,7 +58,7 @@
                     <div class="w-1/2 flex flex-col p-8">
                         <h3 class="text-text font-extrabold text-[64px]">6.</h3>
                         <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="book" src="../../../assets/images/b-global.png" />
+                            <img class="w-[34px] mr-2" alt="book" src="../../../assets/images/b-star.png" />
                             <h5 class="text-sm font-semibold uppercase">PARTICIPA EN IMPORTANTES EVENTOS</h5>
                         </div>
                         <p class="font-light text-[#69696B]">Bicampeones del concurso interescuelas organizado por

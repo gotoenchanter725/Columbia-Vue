@@ -1,6 +1,6 @@
 <template>
     <div class="w-full flex justify-around overflow-hidden relative">
-        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle.png"
+        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle-bold.png"
             alt="circle" />
 
         <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px] z-100"

@@ -2,7 +2,7 @@
     <div class="w-full flex justify-around overflow-hidden relative bg-white">
         <div class="container flex flex-col justify-between items-center py-20">
             <img class="w-[182px] absolute -right-[91px] bottom-0" alt="circle"
-                src="../../../assets/images/circle.png" />
+                src="../../../assets/images/circle-bold.png" />
             <div class="w-full flex items-center justify-between pb-10">
                 <h3 class="w-[420px] text-5xl leading-snug text-primary font-extrabold">Beneficios de Columbia
                 </h3>

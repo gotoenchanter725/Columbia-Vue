@@ -1,6 +1,6 @@
 <template>
     <div class="w-full flex justify-around overflow-hidden relative">
-        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle.png"
+        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle-bold.png"
             alt="circle" />
 
         <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px] z-100"
@@ -14,10 +14,10 @@
                     </div>
                 </div>
                 <div class="w-[60%] flex flex-col justify-center items-start px-8">
-                    <div class="flex justify-start items-end mb-4">
+                    <div class="flex justify-start items-end mb-6">
                         <h3 class="text-4xl text-primary font-extrabold text-left">Sobre el programa</h3>
                     </div>
-                    <p class="tex-text text-sm mb-4 text-left">Te ofrecemos un programa de especialización para alcanzar
+                    <p class="tex-text mb-4 text-left">Te ofrecemos un programa de especialización para alcanzar
                         el dominio de las técnicas necesarias para preparar finos y exquisitos postres y panes. Te
                         enseñamos a elaborar, decorar, costear y comercializar todo tipo de postres y a practicar las
                         técnicas de chocolatería, pastelería y panadería fina.</p>

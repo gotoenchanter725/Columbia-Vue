@@ -1,6 +1,6 @@
 <template>
     <div class="w-full flex justify-around overflow-hidden relative">
-        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle.png"
+        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle-bold.png"
             alt="circle" />
 
         <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px] z-100"
@@ -17,7 +17,7 @@
                     <div class="flex justify-start items-end mb-4">
                         <h3 class="text-4xl text-primary font-extrabold text-left">Sobre el programa</h3>
                     </div>
-                    <p class="tex-text text-xl mb-4 text-left">La búsqueda de nuevos talentos en la preparación de
+                    <p class="tex-text text-md mb-4 text-left">La búsqueda de nuevos talentos en la preparación de
                         cócteles y bebidas aumenta cada día. En Columbia te enseñamos a desarrollar tus habilidades para
                         que te conviertas en un maestro de la coctelería nacional e internacional.</p>
 
