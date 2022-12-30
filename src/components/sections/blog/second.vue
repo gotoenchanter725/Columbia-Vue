@@ -32,7 +32,7 @@
             </div>
             <div class="flex flex-col items-center justify-center mt-10">
                 <div class="pagination-wrap">
-                    <vue-awesome-paginate :total-items="10" :itemsPerPage="1" :maxPagesShown="2" v-model="currentPage">
+                    <vue-awesome-paginate :total-items="10" :itemsPerPage="1" :maxPagesShown="2" v-model="currentPage" :on-click="onClickHandler">
                         <template #prev-button>
                             <span>
                                 <svg width="11" height="17" viewBox="0 0 11 17" fill="none"
@@ -66,13 +66,21 @@
 import { defineComponent, ref } from 'vue'
 
 export default defineComponent({
-    setup() {
-        const currentPage = ref(1);
-        return {
-            currentPage,
-        };
-    },
+    // setup() {
+    //     const currentPage = ref(1);
+    //     return {
+    //         currentPage,
+    //     };
+    // },
+    data: () => ({
+        currentPage: 2
+    }), 
     name: 'PartnerSecondSection',
+    methods: {
+        onClickHandler: function(page) {
+            console.log(page);
+        }
+    }
 })
 
 </script>
