@@ -1,7 +1,7 @@
 <template>
     <div class="w-full flex flex-col relative py-10 overflow-hidden">
         <img class="w-[104px] absolute -right-[52px] top-10 -z-10" alt="circle"
-            src="../../../assets/images/circle-fill.png" />
+            src="../../../assets/images/circle.png" />
 
         <div class="container flex flex-col items-center">
             <div class="w-full flex items-center justify-between">

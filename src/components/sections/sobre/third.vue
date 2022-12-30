@@ -1,7 +1,7 @@
 <template>
     <div class="w-full flex justify-around overflow-hidden bg-[#F8F9FA]">
         <div class="container flex flex-col justify-between items-center relative">
-            <img class="w-[216px] absolute -top-[108px] left-0" alt="circle" src="../../../assets/images/circle-bold.png" />
+            <img class="w-[180px] absolute -top-[90px] left-0" alt="circle" src="../../../assets/images/circle-bold.png" />
             <div class="w-full flex items-center justify-between pt-10">
                 <Carousel :settings="settings" :transition="500" :autoplay="3000" :wrap-around="true">
                     <Slide :key="1">

@@ -12,7 +12,7 @@
         </div>
 
         <div class="w-full overflow-hidden relative">
-            <img class="w-[300px] h-[300px] absolute -right-[100px] -top-[100px]" alt="circle"
+            <img class="w-[290px] h-[290px] absolute -right-[145px] -top-[145px]" alt="circle"
                 src="../../assets/images/circle-bold.png" />
             <img class="w-[228px] h-[228px] absolute -left-[114PX] -bottom-[114PX]" alt="circle"
                 src="../../assets/images/circle-bold.png" />

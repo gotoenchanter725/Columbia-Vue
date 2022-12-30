@@ -1,7 +1,7 @@
 <template>
     <div class="w-full flex justify-around overflow-hidden relative">
-        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle-bold.png"
-            alt="circle" />
+        <img class="w-[295px] h-[295px] absolute -right-[145px] -top-[145px]"
+            src="../../../assets/images/circle-bold.png" alt="circle" />
 
         <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px] z-100"
             src="../../../assets/images/circle-bold.png" alt="circle" />
@@ -21,16 +21,23 @@
                         en importantes restaurantes, hoteles y resorts en todo el mundo, además de ser profesionales que
                         pueden emprender sus propios negocios culinarios exitosamente.</p>
 
-                    <div class="flex items-center mb-6">
-                        <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
-                        <span class="text-primary font-medium">Duración: </span>
-                        <span class="text-text mr-6">3 años</span>
-                        <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
-                        <span class="text-primary font-medium">Frecuencia: </span>
-                        <span class="text-text mr-6">Lunes a Viernes</span>
-                        <img class="w-[35px] ml-3 mr-2" src="../../../assets/images/pin.png" alt="monitor" />
-                        <span class="text-primary font-medium">Sede: </span>
-                        <span class="text-text">San Isidro</span>
+                    <div class="flex items-center mb-6 flex-wrap mb-3">
+                        <div class="flex items-center mr-6 my-1.5">
+                            <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
+                            <span class="text-primary font-medium">Duración: </span>
+                            <span class="text-text mr-6">3 años</span>
+                        </div>
+                        <div class="flex items-center mr-6 my-1.5">
+                            <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
+                            <span class="text-primary font-medium">Frecuencia: </span>
+                            <span class="text-text mr-6">Lunes a Viernes</span>
+                        </div>
+                        <div class="flex items-center mr-6 my-1.5">
+                            <img class="w-[35px] mr-2" src="../../../assets/images/pin.png" alt="monitor" />
+                            <span class="text-primary font-medium">Sede: </span>
+                            <span class="text-text">San Isidro</span>
+                        </div>
+
                     </div>
                     <button
                         class="bg-primary text-white px-6 py-3 flex items-center rounded-full mb-6 hover:bg-secondary">

@@ -1,7 +1,7 @@
 <template>
     <div class="w-full flex justify-around overflow-hidden relative">
-        <img class="w-[295px] h-[295px] absolute -right-[120px] -top-[150px]" src="../../../assets/images/circle-bold.png"
-            alt="circle" />
+        <img class="w-[295px] h-[295px] absolute -right-[145px] -top-[145px]"
+            src="../../../assets/images/circle-bold.png" alt="circle" />
 
         <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px] z-100"
             src="../../../assets/images/circle-bold.png" alt="circle" />
@@ -21,16 +21,22 @@
                         cócteles y bebidas aumenta cada día. En Columbia te enseñamos a desarrollar tus habilidades para
                         que te conviertas en un maestro de la coctelería nacional e internacional.</p>
 
-                    <div class="flex items-center mb-6">
-                        <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
-                        <span class="text-primary font-medium">Duración: </span>
-                        <span class="text-text mr-6">08 meses</span>
-                        <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
-                        <span class="text-primary font-medium">Frecuencia: </span>
-                        <span class="text-text mr-6">L - M - V</span>
-                        <img class="w-[35px] ml-3 mr-2" src="../../../assets/images/pin.png" alt="monitor" />
-                        <span class="text-primary font-medium">Sede: </span>
-                        <span class="text-text">San Isidro</span>
+                    <div class="flex items-center flex-wrap mb-3">
+                        <div class="flex items-center mr-6 my-1.5">
+                            <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
+                            <span class="text-primary font-medium">Duración: </span>
+                            <span class="text-text mr-6">08 meses</span>
+                        </div>
+                        <div class="flex items-center mr-6 my-1.5">
+                            <img class="w-[35px] mr-2" src="../../../assets/images/calendar.png" alt="calendar" />
+                            <span class="text-primary font-medium">Frecuencia: </span>
+                            <span class="text-text mr-6">L - M - V</span>
+                        </div>
+                        <div class="flex items-center mr-6 my-1.5">
+                            <img class="w-[35px] mr-2" src="../../../assets/images/pin.png" alt="monitor" />
+                            <span class="text-primary font-medium">Sede: </span>
+                            <span class="text-text">San Isidro</span>
+                        </div>
                     </div>
                     <button
                         class="bg-primary text-white px-6 py-3 flex items-center rounded-full mb-6 hover:bg-secondary">

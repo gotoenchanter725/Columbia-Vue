@@ -213,7 +213,7 @@
 
         <div class="w-full bg-[#F8F9FA]">
             <div class="container flex items-center justify-between pb-16 overflow-hidden relative">
-                <img class="w-[216px] h-[216px] absolute right-[40px] -bottom-[108px]" alt="circle"
+                <img class="w-[180px] h-[180px] absolute right-[50px] -bottom-[90px]" alt="circle"
                     src="../../assets/images/circle-bold.png" />
                 
                 <div class="w-[35%] order-1">

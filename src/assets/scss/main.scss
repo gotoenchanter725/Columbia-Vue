@@ -18,6 +18,12 @@ p, span {
     font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
 }
 
+select {
+    appearance: none;
+    position: relative;
+    @apply bg-[url('src/assets/images/arrow-ios-down.png')] bg-no-repeat bg-[length:20px_20px] bg-[96%_center];
+}
+
 .container {
     @apply w-full mx-auto;
 

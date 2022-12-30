@@ -35,10 +35,12 @@
                                     </div>
                                 </div>
                                 <div class="w-[60%] flex flex-col justify-center items-start px-8">
-                                    <div class="flex justify-start items-end mb-4">
-                                        <h3 class="text-4xl text-text font-extrabold text-left">Mitchell Collantes</h3>
-                                        <span class="mx-4 w-[50px] h-[6px] bg-primary"></span>
-                                        <p class="text-text text-xl">Tripulante de cabina</p>
+                                    <div class="flex justify-start items-end flex-wrap">
+                                        <div class="flex  items-end mb-4">
+                                            <h3 class="text-4xl text-text font-extrabold text-left">Mitchell Collantes</h3>
+                                            <span class="mx-2 w-[50px] h-[6px] bg-primary"></span>
+                                        </div>
+                                        <p class="text-text text-xl mb-4">Tripulante de cabina</p>
                                     </div>
                                     <p class="tex-text text-xl mb-4 text-left">Terminé mi carrera e inicié en el mundo
                                         de la
