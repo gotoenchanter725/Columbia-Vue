@@ -39,7 +39,7 @@
                     <div class="w-1/2 flex flex-col p-8">
                         <h3 class="text-text font-extrabold text-[64px]">4.</h3>
                         <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="book" src="../../../assets/images/b-bookmark.png" />
+                            <img class="w-[34px] mr-2" alt="book" src="../../../assets/images/b-world.png" />
                             <h5 class="text-sm font-semibold uppercase">formación práctica vivencial</h5>
                         </div>
                         <p class="font-light text-[#69696B]">Viajes Internacionales de estudio, visitas y prácticas en

@@ -144,7 +144,7 @@ export default defineComponent({
             }
 
             a {
-                @apply transition-all relative text-[#212529ce] h-[21px];
+                @apply transition-all relative text-[#212529ce];
 
                 &::after {
                     @apply block w-[8px] h-[8px] absolute top-[5px] -left-3.5 bg-transparent transition-all rounded-full;

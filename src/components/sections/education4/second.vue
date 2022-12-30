@@ -17,7 +17,7 @@
                     <div class="flex justify-start items-end mb-4">
                         <h3 class="text-4xl text-primary font-extrabold text-left">Sobre la especialización</h3>
                     </div>
-                    <p class="tex-text text-xl mb-4 text-left">La Aviación Comercial te permitirá disfrutar de una vida
+                    <p class="tex-text text-base mb-4 text-left">La Aviación Comercial te permitirá disfrutar de una vida
                         llena de emociones y nuevas experiencias, ya sea como Tripulante de Cabina o Counter, tendrás
                         una formación profesional que te permitirá ingresar a las mejores aerolíneas y hacer línea de
                         carrera como: Tripulante de cabina, Jefe de Tripulante de Cabina, Instructor de Servicio a

@@ -2,7 +2,11 @@
     <div>
         <Navbar />
 
-        <div class="w-full">
+        <div class="w-full relative">
+            <img class="w-[295px] aspect-1/1 absolute -right-[140px] top-[250px]" alt="circle"
+                src="../../assets/images/circle.png" />
+            <img class="w-[224px] aspect-1/1 absolute -left-[114px] top-[800px]" alt="circle"
+                            src="../../assets/images/circle.png" />
             <div class="container">
                 <div class="w-full flex flex-col items-center py-20">
                     <h1 class="w-[90%] text-primary text-4xl text-center font-semibold mb-6">Descubre el arte de la
@@ -10,7 +14,9 @@
                         Internacional y todo lo que hay detrás</h1>
                     <p class="text-text font-extrabold text-lg text-center mb-6">Columbia Los Olivos | abril 15, 2021
                     </p>
-                    <img class="w-full mb-6" alt="blog" src="../../assets/images/blog/blog1.png" />
+                    <div class="w-full relative overflow-y-hidden">
+                        <img class="w-full mb-6" alt="blog" src="../../assets/images/blog/blog1.png" />
+                    </div>
                     <div class="w-full px-20 relative">
                         <div class="absolute left-0 top-8 flex flex-col">
                             <button class="p-2 border border-[#CED4DA] rounded-full mb-4">
