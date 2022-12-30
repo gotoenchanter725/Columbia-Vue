@@ -3,7 +3,7 @@
         <div class="container flex justify-between items-center py-20">
             <div class="w-[40%] h-full flex flex-col items-center justify-start pt-10">
                 <img class="w-[224px] absolute -bottom-[113px]" alt="circle"
-                    src="../../../assets/images/circle-fill.png" />
+                    src="../../../assets/images/circle-bold.png" />
                 <h3 class="w-full leading-snug text-5xl text-primary font-extrabold mb-4">
                     ¡Preinscríbete!
                 </h3>

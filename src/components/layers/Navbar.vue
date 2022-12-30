@@ -41,8 +41,8 @@
                                                     src="../../assets/images/book.png" /></div>
                                             <p class="text-primary font-extrabold text-base">INSTITUTO COLUMBIA</p>
                                         </div>
-                                        <div class="flex items-start border-r-2 border-primary">
-                                            <div class="flex flex-col pr-6 w-[30%]">
+                                        <div class="flex items-start justify-between border-r-2 border-primary">
+                                            <div class="flex flex-col pr-6">
                                                 <p class="text-primary mb-1.5 font-extrabold">CARRERAS</p>
                                                 <a class="text-text mb-2 leading-5 hover:text-primary"
                                                     href="/">Hotelería internacional</a>
@@ -65,6 +65,7 @@
                                                 <a class="text-text mb-2 leading-5 hover:text-primary"
                                                     href="/">Pastelería y Panadería</a>
                                             </div>
+                                            <div></div>
                                         </div>
                                     </div>
 
@@ -123,7 +124,7 @@ export default defineComponent({
             @apply transition-colors;
 
             &:hover {
-                @apply text-primary font-medium;
+                @apply text-primary;
 
                 .arrow-color {
                     @apply fill-primary;
@@ -143,7 +144,7 @@ export default defineComponent({
             }
 
             a {
-                @apply transition-all relative text-text;
+                @apply transition-all relative text-[#212529ce] h-[21px];
 
                 &::after {
                     @apply block w-[8px] h-[8px] absolute top-[5px] -left-3.5 bg-transparent transition-all rounded-full;
@@ -151,7 +152,7 @@ export default defineComponent({
                 }
 
                 &:hover {
-                    @apply text-black font-medium;
+                    @apply text-black;
 
                     &::after {
                         @apply bg-primary;

@@ -15,12 +15,14 @@
             <div class="container flex items-center justify-between py-16">
                 <img class="w-[300px] h-[300px] absolute -right-[100px] -top-[100px]" alt="circle"
                     src="../../assets/images/circle.png" />
+                <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px]" alt="circle"
+                    src="../../assets/images/circle-bold.png" />
 
                 <div class="w-[35%]">
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg3.png" />
                 </div>
                 <div class="w-[65%] pl-10">
-                    <h3 class="text-4xl leading-snug text-primary font-extrabold">Sobre Columbia Online</h3>
+                    <h3 class="text-4xl leading-snug text-primary font-extrabold mb-6">Sobre Columbia Online</h3>
                     <p class="text-lg text-text">La adaptación al cambio es una de las principales habilidades que
                         Columbia fomenta entre su comunidad. Esto nos ha impulsado a crear una propuesta educativa
                         adecuada a los tiempos actuales, por ello te presentamos Columbia Online, una plataforma en
@@ -31,67 +33,72 @@
             </div>
         </div>
 
+        <div class="w-full overflow-hidden relative">
+            <div class="container flex justify-between items-center py-20">
+                <img class="w-[228px] h-[228px] absolute -left-[114px] -top-[114px]" alt="circle"
+                    src="../../assets/images/circle-bold.png" />
+                <div class="flex flex-col items-center ">
+                    <div class="flex items-stretch">
+                        <div class="w-1/2 flex flex-col p-8">
+                            <h3 class="text-text font-extrabold text-[64px]">1.</h3>
+                            <div class="flex items-center mb-4">
+                                <img class="w-[34px] mr-2" alt="star" src="../../assets/images/b-world.png" />
+                                <h5 class="text-sm font-semibold uppercase">PRESTIGIO</h5>
+                            </div>
+                            <p class="font-light text-[#69696B]">Gran trayectoria de éxitos y egresados trabajando
+                                alrededor
+                                del mundo</p>
 
-        <div class="container flex justify-between items-center py-20">
-            <div class="flex flex-col items-center ">
-                <div class="flex items-stretch">
-                    <div class="w-1/2 flex flex-col p-8 relative">
-                        <h3 class="text-text font-extrabold text-[64px]">1.</h3>
-                        <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="star" src="../../assets/images/b-world.png" />
-                            <h5 class="text-sm font-semibold uppercase">PRESTIGIO</h5>
+                            <div class="bg-white w-[80px] h-[40px] absolute -right-[40px] -bottom-[20px]"></div>
                         </div>
-                        <p class="font-light text-[#69696B]">Gran trayectoria de éxitos y egresados trabajando alrededor
-                            del mundo</p>
-
-                        <div class="bg-white w-[80px] h-[40px] absolute -right-[40px] -bottom-[20px]"></div>
+                        <div class="w-1/2 flex flex-col p-8">
+                            <h3 class="text-text font-extrabold text-[64px]">2.</h3>
+                            <div class="flex items-center mb-4">
+                                <img class="w-[34px] mr-2" alt="trank" src="../../assets/images/blue-trank.png" />
+                                <h5 class="text-sm font-semibold uppercase">zoom</h5>
+                            </div>
+                            <p class="font-light text-[#69696B]">Clases en vivo, sincrónicas y eficaces, en innovadora
+                                plataforma para aprendizaje online.Lo mejor y lo último que hay.</p>
+                        </div>
+                        <div class="w-1/2 flex flex-col p-8">
+                            <h3 class="text-text font-extrabold text-[64px]">3.</h3>
+                            <div class="flex items-center mb-4">
+                                <img class="w-[34px] mr-2" alt="flag" src="../../assets/images/b-certific.png" />
+                                <h5 class="text-sm font-semibold uppercase">INGLÉS ESPECIALIZADO</h5>
+                            </div>
+                            <p class="font-light text-[#69696B]">Reforzamos tu idioma inglés, clases vivenciales. Nueva
+                                metodología.</p>
+                        </div>
                     </div>
-                    <div class="w-1/2 flex flex-col p-8">
-                        <h3 class="text-text font-extrabold text-[64px]">2.</h3>
-                        <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="trank" src="../../assets/images/blue-trank.png" />
-                            <h5 class="text-sm font-semibold uppercase">zoom</h5>
+                    <div class="flex items-stretch">
+                        <div class="w-1/2 flex flex-col p-8">
+                            <h3 class="text-text font-extrabold text-[64px]">4.</h3>
+                            <div class="flex items-center mb-4">
+                                <img class="w-[34px] mr-2" alt="book" src="../../assets/images/b-bookmark.png" />
+                                <h5 class="text-sm font-semibold uppercase">COLUMBIA JOBS</h5>
+                            </div>
+                            <p class="font-light text-[#69696B]">Oportunidades laborales y procesos de selección de
+                                personal
+                                en nuestra área de Columbia Jobs.</p>
                         </div>
-                        <p class="font-light text-[#69696B]">Clases en vivo, sincrónicas y eficaces, en innovadora
-                            plataforma para aprendizaje online.Lo mejor y lo último que hay.</p>
-                    </div>
-                    <div class="w-1/2 flex flex-col p-8">
-                        <h3 class="text-text font-extrabold text-[64px]">3.</h3>
-                        <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="flag" src="../../assets/images/b-certific.png" />
-                            <h5 class="text-sm font-semibold uppercase">INGLÉS ESPECIALIZADO</h5>
+                        <div class="w-1/2 flex flex-col p-8">
+                            <h3 class="text-text font-extrabold text-[64px]">5.</h3>
+                            <div class="flex items-center mb-4">
+                                <img class="w-[34px] mr-2" alt="book" src="../../assets/images/blue-star.png" />
+                                <h5 class="text-sm font-semibold uppercase">FORMACIÓN DE CALIDAD</h5>
+                            </div>
+                            <p class="font-light text-[#69696B]">Profesores altamente capacitados y especializados.
+                                Equipamiento, infraestructura, experiencia y calidad.</p>
                         </div>
-                        <p class="font-light text-[#69696B]">Reforzamos tu idioma inglés, clases vivenciales. Nueva
-                            metodología.</p>
-                    </div>
-                </div>
-                <div class="flex items-stretch">
-                    <div class="w-1/2 flex flex-col p-8">
-                        <h3 class="text-text font-extrabold text-[64px]">4.</h3>
-                        <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="book" src="../../assets/images/b-bookmark.png" />
-                            <h5 class="text-sm font-semibold uppercase">COLUMBIA JOBS</h5>
+                        <div class="w-1/2 flex flex-col p-8">
+                            <h3 class="text-text font-extrabold text-[64px]">6.</h3>
+                            <div class="flex items-center mb-4">
+                                <img class="w-[34px] mr-2" alt="book" src="../../assets/images/b-global.png" />
+                                <h5 class="text-sm font-semibold uppercase">NETWORKING</h5>
+                            </div>
+                            <p class="font-light text-[#69696B]">Convenios y afiliacionesnacionales e
+                                internacionales.Desarrollo de alianzas ysinergias positivas</p>
                         </div>
-                        <p class="font-light text-[#69696B]">Oportunidades laborales y procesos de selección de personal
-                            en nuestra área de Columbia Jobs.</p>
-                    </div>
-                    <div class="w-1/2 flex flex-col p-8">
-                        <h3 class="text-text font-extrabold text-[64px]">5.</h3>
-                        <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="book" src="../../assets/images/blue-star.png" />
-                            <h5 class="text-sm font-semibold uppercase">FORMACIÓN DE CALIDAD</h5>
-                        </div>
-                        <p class="font-light text-[#69696B]">Profesores altamente capacitados y especializados.
-                            Equipamiento, infraestructura, experiencia y calidad.</p>
-                    </div>
-                    <div class="w-1/2 flex flex-col p-8">
-                        <h3 class="text-text font-extrabold text-[64px]">6.</h3>
-                        <div class="flex items-center mb-4">
-                            <img class="w-[34px] mr-2" alt="book" src="../../assets/images/b-global.png" />
-                            <h5 class="text-sm font-semibold uppercase">NETWORKING</h5>
-                        </div>
-                        <p class="font-light text-[#69696B]">Convenios y afiliacionesnacionales e
-                            internacionales.Desarrollo de alianzas ysinergias positivas</p>
                     </div>
                 </div>
             </div>
@@ -100,7 +107,7 @@
         <div class="w-full overflow-hidden bg-[#F8F9FA]">
             <div class="container flex items-center justify-between py-16 relative">
                 <img class="w-[128px] h-[128px] absolute left-0 -top-[64px]" alt="circle"
-                    src="../../assets/images/circle.png" />
+                    src="../../assets/images/circle-bold.png" />
 
                 <div class="w-[35%] order-2">
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg9.png" />
@@ -135,7 +142,7 @@
 
         <div class="w-full overflow-hidden bg-[#F8F9FA] relative">
             <img class="w-[178px] h-[178px] absolute bottom-0 -right-[89px]" alt="circle"
-                src="../../assets/images/circle.png" />
+                src="../../assets/images/circle-bold.png" />
             <div class="container flex items-center justify-between pb-16">
 
                 <div class="w-[35%] order-1">
@@ -204,11 +211,11 @@
             </div>
         </div>
 
-        <div class="w-full overflow-hidden bg-[#F8F9FA] relative">
-            <img class="w-[216px] h-[216px] absolute right-[40px] -bottom-[108px]" alt="circle"
-                src="../../assets/images/circle.png" />
-            <div class="container flex items-center justify-between pb-16">
-
+        <div class="w-full bg-[#F8F9FA]">
+            <div class="container flex items-center justify-between pb-16 overflow-hidden relative">
+                <img class="w-[216px] h-[216px] absolute right-[40px] -bottom-[108px]" alt="circle"
+                    src="../../assets/images/circle.png" />
+                
                 <div class="w-[35%] order-1">
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg12.png" />
                 </div>

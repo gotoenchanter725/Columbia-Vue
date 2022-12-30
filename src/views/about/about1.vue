@@ -20,7 +20,7 @@
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg3.png" />
                 </div>
                 <div class="w-[65%] pl-10">
-                    <h3 class="text-4xl leading-snug text-primary font-extrabold">Sobre Columbia Instituto</h3>
+                    <h3 class="text-4xl leading-snug text-primary font-extrabold mb-6">Sobre Columbia Instituto</h3>
                     <p class="text-lg text-text">Viajar, descansar, disfrutar, divertirse y pasarlo bien es atractivo
                         para
                         todos. Muchas personas desean experimentar el contacto con la naturaleza, el clima, las
@@ -36,7 +36,7 @@
         <div class="w-full overflow-hidden bg-[#F8F9FA]">
             <div class="container flex items-center justify-between py-16 relative">
                 <img class="w-[128px] h-[128px] absolute left-0 -top-[64px]" alt="circle"
-                    src="../../assets/images/circle.png" />
+                    src="../../assets/images/circle-bold.png" />
 
                 <div class="w-[35%] order-2">
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg4.png" />
@@ -70,7 +70,7 @@
 
         <div class="w-full overflow-hidden bg-[#F8F9FA] relative">
             <img class="w-[178px] h-[178px] absolute bottom-0 -right-[89px]" alt="circle"
-                src="../../assets/images/circle.png" />
+                src="../../assets/images/circle-bold.png" />
             <div class="container flex items-center justify-between pb-16">
 
                 <div class="w-[35%] order-1">
@@ -135,7 +135,7 @@
         <div class="w-full overflow-hidden bg-[#F8F9FA]">
             <div class="container flex items-center justify-between pb-16 relative">
                 <img class="w-[216px] h-[216px] absolute right-[40px] -bottom-[108px]" alt="circle"
-                    src="../../assets/images/circle.png" />
+                    src="../../assets/images/circle-bold.png" />
 
                 <div class="w-[35%] order-1">
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg7.png" />

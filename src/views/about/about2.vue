@@ -7,22 +7,22 @@
                 <img class="w-full aspect-[4/1]" alt="bg" src="../../assets/images/Internas.png" />
                 <h1
                     class="w-full h-full flex items-center justify-center absolute left-0 top-0 text-white text-6xl font-extrabold bg-[#00000044]">
-                    Columbia Instituto</h1>
+                    Columbia CETPRO</h1>
             </div>
         </div>
 
         <div class="w-full overflow-hidden relative">
             <img class="w-[300px] h-[300px] absolute -right-[100px] -top-[100px]" alt="circle"
-                src="../../assets/images/circle.png" />
+                src="../../assets/images/circle-bold.png" />
             <img class="w-[228px] h-[228px] absolute -left-[114PX] -bottom-[114PX]" alt="circle"
-                src="../../assets/images/circle.png" />
+                src="../../assets/images/circle-bold.png" />
 
             <div class="container flex items-center justify-between py-16">
                 <div class="w-[35%]">
                     <img class="w-full aspect-[5/4]" alt="bg" src="../../assets/images/bg3.png" />
                 </div>
                 <div class="w-[65%] pl-10">
-                    <h3 class="text-4xl leading-snug text-primary font-extrabold">Sobre Columbia CETPRO</h3>
+                    <h3 class="text-4xl leading-snug text-primary font-extrabold mb-6">Sobre Columbia CETPRO</h3>
                     <p class="text-lg text-text">En Columbia te formamos con los conocimientos para adaptarte a los
                         cambios y destacar en el mundo de la Aviación Comercial. Nuestro plan curricular está enfocado
                         en aportar conocimientos técnicos, potenciar habilidades y desarrollar la vocación de servicio

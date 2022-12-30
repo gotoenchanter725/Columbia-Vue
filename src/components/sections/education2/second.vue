@@ -4,7 +4,7 @@
             alt="circle" />
 
         <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px] z-100"
-            src="../../../assets/images/circle.png" alt="circle" />
+            src="../../../assets/images/circle-bold.png" alt="circle" />
 
         <div class="container flex justify-between items-center py-10">
             <div class="w-full flex">

@@ -25,7 +25,7 @@
                                 <img class="aspecto-[2220/283] w-full" alt="chef"
                                     src="../../../assets/images/teacher1.png" />
                             </div>
-                            <div class="w-[50%] flex flex-col justify-center p-4">
+                            <div class="w-[50%] flex flex-col justify-center p-6">
                                 <h4 class="text-primary font-extrabold text-xl text-left mb-4">DIETER TAURER</h4>
                                 <p class="text-text mb-4 text-left">Especialista en cocina italiana y francesa. Consultor
                                     gastronómico.
@@ -56,6 +56,7 @@ export default defineComponent({
         // carousel settings
         settings: {
             itemsToShow: 2,
+            snapAlign: 'start',
         },
     }),
     methods: {
