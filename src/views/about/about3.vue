@@ -13,7 +13,7 @@
 
         <div class="w-full overflow-hidden relative">
             <div class="container flex items-center justify-between py-16">
-                <img class="w-[300px] h-[300px] absolute -right-[100px] -top-[100px]" alt="circle"
+                <img class="w-[300px] h-[300px] absolute -right-[150px] -top-[150px]" alt="circle"
                     src="../../assets/images/circle.png" />
                 <img class="w-[228px] h-[228px] absolute -left-[114px] -bottom-[114px]" alt="circle"
                     src="../../assets/images/circle-bold.png" />

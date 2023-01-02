@@ -55,12 +55,6 @@ import 'vue3-carousel/dist/carousel.css'
 import { Carousel, Slide } from 'vue3-carousel'
 let carouselRef;
 export default defineComponent({
-    setup: function () {
-        carouselRef = ref(null)
-        return {
-            carouselRef
-        }
-    },
     name: 'EducationLastSection',
     components: {
         Carousel,
@@ -70,18 +64,17 @@ export default defineComponent({
         // carousel settings
         settings: {
             itemsToShow: 1,
+            snapAlign: 'start',
         },
     }),
     methods: {
         backHandle: function () {
-            console.log('prev');
-            console.log(carouselRef);
-            carouselRef.prev();
+            const carousel = this.$refs.carouselRef;
+            carousel.prev();
         },
         nextHandle: function () {
-            console.log('next');
-            console.log(carouselRef);
-            carouselRef.next();
+            const carousel = this.$refs.carouselRef;
+            carousel.next();
         },
     }
 })
